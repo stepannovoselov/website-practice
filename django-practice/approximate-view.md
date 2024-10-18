@@ -49,3 +49,5 @@ python manage.py runserver
 ```
 
 Перейдите по адресу http://127.0.0.1:8000/ для просмотра результата.
+
+Writing your first Django app: [https://docs.djangoproject.com/en/5.1/intro/tutorial01/](https://docs.djangoproject.com/en/5.1/intro/tutorial01/)
